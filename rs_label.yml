@@ -1,0 +1,2 @@
+conda create -n rs_label python numpy matplotlib pillow scikit-image tk
+pip install opencv-python icecream
